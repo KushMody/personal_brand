@@ -2,10 +2,10 @@ import { motion, useScroll, useTransform } from 'framer-motion'
 import { useRef } from 'react'
 
 // Import images from assets
-import img1 from '../assets/pictures/Horizontal Scroll/3YLAKeFlxATFTQb5V6Ji0JyHnY.png'
-import img2 from '../assets/pictures/Horizontal Scroll/RS1QCQkf6G1lNtO3WhHEb5m26ao.png'
-import img3 from '../assets/pictures/Horizontal Scroll/eSyvkQ0LGaNCyG1BrsQTxKr5PY4.png'
-import img4 from '../assets/pictures/Horizontal Scroll/nFF0tkaA1mvcEt3yQyuHsqJytuc.png'
+import img1 from '../assets/Horizontal Scroll pictures/3YLAKeFlxATFTQb5V6Ji0JyHnY.png'
+import img2 from '../assets/Horizontal Scroll pictures/RS1QCQkf6G1lNtO3WhHEb5m26ao.png'
+import img3 from '../assets/Horizontal Scroll pictures/eSyvkQ0LGaNCyG1BrsQTxKr5PY4.png'
+import img4 from '../assets/Horizontal Scroll pictures/nFF0tkaA1mvcEt3yQyuHsqJytuc.png'
 
 const HorizontalScroll = () => {
     const targetRef = useRef(null)
