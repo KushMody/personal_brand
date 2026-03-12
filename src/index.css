@@ -2,8 +2,8 @@
 
 @theme {
   --font-sans: "Inter", sans-serif;
-  --color-background: #f4f4f4;
-  --color-text-primary: #1a1a1a;
+  --color-background: #050505;
+  --color-text-primary: #ffffff;
 }
 
 @layer base {
